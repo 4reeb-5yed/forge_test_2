@@ -1,1 +1,2 @@
-# This is the calculator.py file in the root directory
+def add(a, b):
+    return a + b
